@@ -1,0 +1,6 @@
+article_id                                                     title company_name  year    arr_usd  similarity
+   ART0508 Snowflake Announces Breakthrough in Large Language Models    Snowflake  2024 3388000000    0.561674
+   ART0121    SpaceX Announces Breakthrough in Large Language Models       SpaceX  2023 7600000000    0.550422
+   ART0122   Elastic Announces Breakthrough in Large Language Models      Elastic  2022 1010000000    0.539014
+   ART0680    SpaceX Announces Breakthrough in Large Language Models       SpaceX  2024 8925000000    0.531193
+   ART0318    Stripe Announces Breakthrough in Large Language Models       Stripe  2022 1700000000    0.522604
